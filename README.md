@@ -11,8 +11,10 @@ Este repositório contém a implementação estruturada de uma versão simplific
 - Criar e verificar missões e condições de vitória.
 - Garantir performance, legibilidade e manutenibilidade.
 
+
 📌 Descrição rápida dos módulos
 territory.c / territory.h
+
 
 Criação e destruição de territórios
 
@@ -38,7 +40,9 @@ Missões básicas implementadas:
 
 “Eliminar jogador específico”
 
+
 🧪 Testes
+
 
 O projeto inclui exemplos simples no main.c para validar:
 
@@ -50,7 +54,9 @@ Ataques usando estratégia aleatória
 
 Verificação de missão
 
+
 📚 Relatório
+
 
 O documento docs/relatorio.md descreve:
 
@@ -65,6 +71,7 @@ Modularização
 Testes
 
 Melhorias futuras
+
 
 👨‍💻 Autor
 
